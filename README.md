@@ -1,5 +1,5 @@
 <h2>💫 About Me:</h2>
-Hi! Welcome to my Github landing page! <br/>
+Hi! Welcome to my Github! <br/>
 I'm Ryhana, a second year CS + Design student at the Western University. I play around a lot with technological creativity and love using code as a 
 medium to express my designs! <br>
 <br/>
