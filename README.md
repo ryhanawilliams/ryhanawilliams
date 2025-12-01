@@ -1,10 +1,10 @@
 <h2>💫 About Me:</h2>
 Hi! Welcome to my Github! <br/>
-I'm Ryhana, a second year CS + Design student at the Western University. I play around a lot with technological creativity and love using code as a 
+I'm Ryhana, a second year CS + Design student at Western University. I play around a lot with technological creativity and love using code as a 
 medium to express my designs! <br>
 <br/>
 
-🔭 I’m currently working on building Campus2Corporate's Coaching App! <br>
+🔭 I’m currently working on building nourish a student's personal cooking app! <br>
 💬 Ask me about touchdesign and startup life! <br/> 
 💬 Reach me at rwill54@uwo.ca
 
